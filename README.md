@@ -1,16 +1,9 @@
 # Animeworldz v2.0
-now comes with Complete overhaul.
-
-## Now ported to Mobile
-check out [animeworldz-mobile](https://github.com/Dovakiin0/animeworldz-mobile)  
-Download [Here](https://github.com/Dovakiin0/animeworldz-mobile/releases/download/2.0.0/animeworldz-signed.apk)
 
 Major Changes:
  - Complete new Web Design.
  - More Sources to watch episode.
  - Anime Schedule
-
-Also, checkout my package [@dovakiin0/anime-data](https://github.com/Dovakiin0/anime-data), which was used in backend api. 
 
 The progress has been deployed [here](https://animeworldz.herokuapp.com)
 
