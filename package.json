@@ -17,12 +17,7 @@
     "anime",
     "watch-anime"
   ],
-  "author": "Dovakiin0",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Dovakiin0/animeworldz/issues"
   },
-  "homepage": "https://github.com/Dovakiin0/animeworldz#readme",
   "dependencies": {
     "@dovakiin0/anime-data": "^1.5.1",
     "cors": "^2.8.5",
