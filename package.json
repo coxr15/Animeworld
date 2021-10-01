@@ -1,0 +1,31 @@
+{
+  "name": "animeworldz",
+  "version": "2.0.0",
+  "description": "Stream Your favourite anime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dovakiin0/animeworldz.git"
+  },
+  "keywords": [
+    "anime-streaming",
+    "anime",
+    "watch-anime"
+  ],
+  "author": "Dovakiin0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dovakiin0/animeworldz/issues"
+  },
+  "homepage": "https://github.com/Dovakiin0/animeworldz#readme",
+  "dependencies": {
+    "@dovakiin0/anime-data": "^1.5.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
